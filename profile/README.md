@@ -1,4 +1,4 @@
-<img src="./profile/img/dinhero-logo.png" style="margin: 2rem auto; width: 100%;">
+<img src="./img/dinhero-logo.png" style="margin: 2rem auto; width: 100%;">
 
 ## 📄  Descrição
 Este projeto visa criar uma plataforma online completa para educação financeira, oferecendo aulas online e mentorias ao vivo com especialistas. Nosso objetivo é capacitar as pessoas a tomar decisões financeiras conscientes e alcançar a independência financeira.
